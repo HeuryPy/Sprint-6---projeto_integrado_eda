@@ -14,8 +14,7 @@ Este Projeto foi desenvolvido como requisito para aprovação na Sprint 6 do Boo
 As avaliações de usuários e especialistas, gêneros, plataformas (por exemplo, Xbox ou PlayStation) e dados históricos sobre vendas de jogos estão disponíveis em fontes abertas.<br>
 Foi necessário identificar padrões que determinam se um jogo tem sucesso ou não para permitir identificar possíveis sucessos e planeje campanhas publicitárias.<br>
 
-<br>
-**Arquivos do Projeto:**<br>
+**Arquivos do Projeto:**
 - projeto_sprint6.ipynb (caderno Jupyter)<br>
 - games.csv (dataset)
 
