@@ -13,7 +13,10 @@ Este Projeto foi desenvolvido como requisito para aprovação na Sprint 6 do Boo
 💡O Projeto consistiu em analisar uma empresa loja online chamada Ice, que vende videogames no mundo todo. <br>
 As avaliações de usuários e especialistas, gêneros, plataformas (por exemplo, Xbox ou PlayStation) e dados históricos sobre vendas de jogos estão disponíveis em fontes abertas.<br>
 Foi necessário identificar padrões que determinam se um jogo tem sucesso ou não para permitir identificar possíveis sucessos e planeje campanhas publicitárias.<br><br>
-  
+
+**Sugestões para o futuro:** <br>
+Usar uma amostra dos dados com um intervalo entre 2 a 3 anos, para melhor análise.
+
 **Arquivos do Projeto:**
 - projeto_sprint6.ipynb (caderno Jupyter)
 - games.csv (dataset)
